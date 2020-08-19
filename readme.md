@@ -1,4 +1,4 @@
-<h1><img src="https://github.com/devMarcoAntonio/angular-calculadora/tree/master/imagem"></h1>
+<h1><img src="https://github.com/devMarcoAntonio/angular-calculadora/tree/master/imagem.png"></h1>
 
 # Sobre 
 O projeto teve por objetivo criar uma Calculadora digital comum com  technologia Angular, atividade oferecida pelo prof° André Seoane.
