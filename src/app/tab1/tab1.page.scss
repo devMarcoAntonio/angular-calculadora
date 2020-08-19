@@ -1,0 +1,48 @@
+body{
+    margin: 0;
+    position: absolute;
+    width: 70%;
+    height: 80%;
+    margin-left: 15%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.destaque {
+    color: var(--ion-color-success);
+    background-color: #3C3C3C;
+    margin-right: 30px;
+    margin-left: 15px;
+    border-radius: 5px;
+    width: 100%;
+    display: flex;
+    align-content: center;
+    justify-items: center;
+}
+
+button{
+    width: 20%;
+    height: 50px;
+    margin: 3px;
+    border-radius: 5px;
+    border-style: none;
+    font-size: 15pt;
+    border: black 1px solid;
+}
+#igual{
+    width: 64%
+    
+}
+#display{
+    margin-right: 30px;
+    margin-left: 15px;
+    width: 100%;
+    height: 5%;
+    font-size: 15pt;
+    overflow: hidden;
+    border-radius: 5px;
+    padding: 20px;
+    display: flex;
+    border: #3C3C3C 1px solid;
+} 
